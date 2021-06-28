@@ -1,2 +1,2 @@
 # myawesome_portfoliosite
-ポートフォリオサイト
+Django + Vueで作るポートフォリオサイト
